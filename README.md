@@ -35,6 +35,6 @@ Hello there! I'm Ahmed Moawad, a passionate Chief Technology Officer (CTO) at [T
 Let's connect and make something amazing together. Feel free to reach out to me!
 
 <a href="https://www.linkedin.com/in/devypt">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn icon without padding" width="40" height="40"/>
+  <img src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=i6WzGamCuZk4Fog5oxMlYsQv0l_ou-yvOdklRNEcBwo" alt="LinkedIn icon without padding" width="40" height="40"/>
 </a>
 
